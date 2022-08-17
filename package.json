@@ -1,0 +1,26 @@
+{
+  "name": "app-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeresaUll/app-angular.git"
+  },
+  "keywords": [],
+  "author": "Teresa <tbonetcosta@gmail.com> (https://github.com/TeresaUll)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeresaUll/app-angular/issues"
+  },
+  "homepage": "https://github.com/TeresaUll/app-angular#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.5.2"
+  }
+}
