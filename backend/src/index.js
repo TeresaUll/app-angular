@@ -1,4 +1,5 @@
 const express = require('express');
+// cors sirve para que el servidor del backend se pueda comunicar con el servidor de angular
 const cors = require('cors');
 const app = express();
 
